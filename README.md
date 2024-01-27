@@ -3,7 +3,8 @@
 - Tracking: Kalman Filter - Constant Velocity motion model
 - Data Association is based on Joint Probabilistic Data Association filter (JPDAF)
 
-- Three stationary cars are identified with labels going from 0 to 2 and the person walks in front of the radar back and forth.   
+- Three stationary cars are identified with labels going from 0 to 2 and the person walks in front of the radar back and forth.
+- The code has been written entirely in python 3.   
 
 
 
