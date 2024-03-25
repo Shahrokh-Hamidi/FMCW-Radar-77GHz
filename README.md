@@ -5,8 +5,6 @@
 
 - Three stationary cars are identified with labels ranging from 0 to 2 and the person walks in front of the radar back and forth.
   
-- Initial upload: January 2024
-
 
 
 
