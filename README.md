@@ -4,8 +4,7 @@
 - Data Association is based on Joint Probabilistic Data Association filter (JPDAF)
 
 - Three stationary cars are identified with labels ranging from 0 to 2 and a person is walking in front of the radar.
-  
-
+- The project has been coded in c and Python3.
 
 
 
