@@ -1,5 +1,5 @@
 - Multi Target Tracking using AWR1642 TI FMCW radar chip with 2 TX and 4 RX operating at 77 GHz. 
-- The signal processing block includes:   Range estimation --> CFAR --> Doppler estimation --> CFAR --> Doppler compensation --> Angle of arrival estimation 
+- The signal processing block includes:   Range estimation --> CFAR --> Doppler estimation --> Doppler compensation --> Angle of arrival estimation 
 - Tracking: Kalman Filter - Constant Velocity motion model
 - Data Association is based on Joint Probabilistic Data Association filter (JPDAF)
 
